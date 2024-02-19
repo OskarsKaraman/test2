@@ -418,7 +418,6 @@ display: none;
   padding: 115px 28px 27px 28px;
   transition: 0.5s ease all;
   clip-path: circle(100%);
-  border-radius: 19px;
   backdrop-filter: blur(24px);
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, #000 100%);
 }
