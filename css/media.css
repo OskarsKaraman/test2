@@ -1,0 +1,575 @@
+
+
+
+
+
+@media screen and (max-width: 1366px) {
+
+}
+
+
+
+@media screen and (max-width: 1200px) {
+
+.container {
+    max-width: 100%;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.wel__img img {
+    max-width: 100%;
+}
+
+.wel__left.ist img {
+    width: 80%;
+}
+
+}
+
+
+@media screen and (max-width: 1060px) {
+
+nav {
+    order: 1;
+}
+
+}
+
+
+
+@media screen and (max-width: 1024px) {
+
+.about__tit {
+    font-size: 48px;
+    line-height: 120%;
+    margin-bottom: 24px;
+}
+
+.about__text__is {
+    font-size: 16px;
+    line-height: 150%;
+}
+
+ul.top__menu li a {
+    font-size: 16px;
+    line-height: 175%;
+}
+
+section.wel__ico {
+    padding: 40px 0;
+}
+
+section.wel__about {
+    padding: 64px 0;
+}
+
+section.wel__bg {
+    padding: 64px 0;
+}
+
+button.wel__buy {
+    font-size: 16px;
+    height: auto;
+    padding: 14px 60px 14px 25px;
+    line-height: 175%;
+    width: auto;
+    white-space: nowrap;
+}
+
+button.wel__more {
+    font-size: 16px;
+    line-height: 175%;
+    height: auto;
+    padding: 14px 24px;
+    width: auto;
+}
+
+button.wel__buy:before {
+    top: 14px;
+}
+
+.wel__text {
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+.wel__img {
+    margin-bottom: 24px;
+}
+
+button.top__but {
+    font-size: 16px;
+    padding: 10px 24px;
+}
+
+.foot__wrpa {
+    padding: 40px 0;
+}
+
+h3 {
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+.tocen__tit {
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.tocen__text {
+    font-size: 16px;
+}
+
+button.but__tocen {
+    font-size: 16px;
+    padding: 15px 32px;
+}
+
+
+.form__bl {
+    font-size: 24px;
+    padding: 32px;
+    line-height: 24px;
+}
+
+.form___tit {
+    font-size: 24px;
+}
+
+.form__prise {
+    font-size: 24px;
+}
+
+.form__total {
+    padding: 32px;
+    margin-bottom: 16px;
+}
+
+
+.cong__img img {
+    width: 84px;
+    height: 84px;
+}
+
+.cong__bl {
+    padding: 24px;
+}
+
+.cong__img {
+    margin-bottom: 24px;
+}
+
+form.form__wrpap {
+    width: 100%;
+}
+
+.form__in {
+    /* margin: 0 0 16px 0; */
+}
+
+section.cong__is {
+    margin-bottom: 64px;
+}
+
+  
+}
+
+
+@media screen and (max-width: 992px) {
+
+.cong__bs {
+    width: 33.3333333%;
+    padding: 15px;
+}   
+
+.form__is {
+    width: 33.3333%;
+    padding: 0px 8px;
+}
+
+  
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+
+.burger {
+    display:block;
+}
+
+
+.soc__but__wrpa {
+    margin: 0 70px 0 0;
+}
+
+
+ul.top__menu.mob li a {
+    width: 100%;
+    display: flex;
+    margin-bottom: 20px;
+    font-size: 32px;
+    line-height: 125%;
+    text-align: center;
+    justify-content: center;
+}
+
+nav.mob__nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}   
+
+nav.nav {
+    display: none;
+}
+
+section.wel__bg {
+    padding: 40px 0;
+}
+
+.wel__text {
+    font-size: 14px;
+}
+
+section.wel__about {
+    padding: 40px 0;
+}
+
+.about__tit {
+    font-size: 32px;
+    line-height: 120%;
+}
+
+.about__text__is {
+    font-size: 14px;
+    line-height: 150%;
+}
+
+a.mail__is {
+    text-align: left;
+}
+
+
+.tocen__tit {
+    font-size: 20px;
+}
+
+.foot__wrpa {
+    padding: 40px 0;
+}
+
+.copm__bl {
+    font-size: 12px;
+    justify-content: start;
+    text-align: left;
+    width: 30%;
+}
+
+.soc__bl a {
+    width: 44px;
+    height: 44px;
+}
+
+.soc__bl a img {
+    width: 24px;
+    height: 24px;
+}
+
+section.cong__is {
+    margin-bottom: 40px;
+}
+
+.form__bl {
+    font-size: 20px;
+    line-height: 20px;
+    padding: 24px;
+}
+
+.form___tit {
+    font-size: 20px;
+}
+
+.form__prise {
+    font-size: 20px;
+}
+
+.form__is {
+    width: 33.3333%;
+    padding: 0px 10px;
+}
+
+.form__in {
+    margin: 0 -12px 16px;
+}
+
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+
+h1.logo {
+    margin: 0;
+    padding: 0;
+}
+
+h1.logo a img {
+    width: 171px;
+    height: auto;
+    margin: 18px 0 0;
+}
+
+.soc__bl a {
+    width: 40px;
+    height: 40px;
+}
+
+.burger i img {
+    width: 40px;
+}
+
+.burger i {
+    width: 40px;
+    height: 40px;
+}
+
+.burger i:nth-of-type(1) {
+    width: 44px;
+    height: 44px;
+}
+
+.ico__img img {
+    width: 32px;
+    height: 32px;
+}
+
+button.top__but {
+    display: none;
+}
+
+.form__is {
+    width: 33.3333%;
+    padding: 0px 8px;
+}
+
+.logo__is {
+    margin-bottom: 27px;
+}
+
+.copm__bl.mob {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.items_center {
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.foot__wrpa.flex.flex_wrap.between {
+    justify-content: center;
+    flex-direction: column-reverse;
+}
+
+.copm__bl {
+    display: none;
+}
+
+.tocen__text__bl {flex: 1 2 auto;}
+
+h3 {
+    font-size: 32px;
+}
+
+.form__bl {
+    width: 100%;
+    margin-bottom: 8px;
+    margin-right: 0;
+}
+
+.form___tit {
+    font-size: 16px;
+    margin-right: 8px;
+}
+
+.form__prise {
+    font-size: 16px;
+}
+
+.form__bord {
+    margin-right: 8px;
+}
+
+.tocen__tit {
+    font-size: 16px;
+    margin-bottom: 4px;
+}
+
+.tocen__text {
+    margin-bottom: 20px;
+}
+
+.tocen__address__bl.flex.flex_wrap {
+    padding: 24px;
+    justify-content: end;
+}
+
+button.but__tocen {
+    text-align: right;
+    right: 0;
+}
+
+.tocen__text br {
+    display: block;
+}
+
+a.mail__is {
+    text-align: center;
+}
+
+}
+
+/* Ipad mini*/ 
+@media screen and (max-width: 620px) {
+
+.comg__wrap {
+    margin: 0 -8px;
+}
+    
+.form__is {
+    width: 100%;
+    padding: 0;
+}
+
+.form__in {
+    margin: 0;
+}
+
+.form__total {
+    margin-bottom: 8px;
+}  
+
+.copi__is {
+    width: 100%;
+    white-space: nowrap;
+}
+    
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+
+.wel__left {
+    width: 100%;
+    order: 2;
+}
+
+.wel__right {
+    width: 100%;
+    order: 1;
+}
+
+section.wel__bg {
+    padding: 32px 0;
+    margin-bottom: 0;
+}
+
+section.wel__ico {
+    padding: 32px 0;
+}
+
+.wel__left.ist {
+    order: 1;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 24px;
+}
+
+.wel__left.ist img {
+    text-align: center;
+    width: 169px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.about__tit {
+    text-align: center;
+}
+
+
+.cong__bs {
+    width: 49%;
+    padding: 8px;
+}
+
+.container {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+  
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+
+button.wel__buy {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button.wel__more {
+    width: 100%;
+}
+  
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+
+.soc__bl.flex.items_center.mob {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.soc__bl.flex.items_center {
+    display: none;
+}
+
+.burger {
+    top: 17px;
+}
+
+.soc__bl.flex.items_center {
+    display: none;
+}
+
+.cong__img {
+    margin-bottom: 12px;
+}
+
+.foot__wrpa.flex.flex_wrap.between {
+    padding: 16px 0;
+}
+
+.cong__bs {
+    width: 50%;
+}
+
+.container {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+
+}
