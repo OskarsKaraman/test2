@@ -630,6 +630,10 @@ footer {
     display: none;
 }
 
+.soc__bl.flex.items_center.mob {
+    display: none;
+}
+
 
 
 
